@@ -12,4 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=aerraj&theme=dark&theme=)
+![](https://github-readme-stats.vercel.app/api?username=aerraj&show_icons=true&theme=tokyonight&locale=en)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aerraj&layout=compact&theme=vue-dark&locale=en )
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aerraj&theme=dark&theme=vue-dark)
