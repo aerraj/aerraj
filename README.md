@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aerraj&theme=dark&theme=vue-dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aerraj&show_icons=true&locale=en&layout=compact" alt="rishabh" /></p>
+
