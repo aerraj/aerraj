@@ -1,8 +1,8 @@
 
 ### 👋 Hi, I’m Rishabh Raj
 ### 👀 I’m interested in money minting.
-### 🌱 I’m currently learning TypeScript
-### 💞️ I’m looking to collaborate on Website development
+### 🌱 I’m currently watching One Piece🤠
+### 💞️ I’m looking to collaborate on big ideas and projects.
 ### 📫 How to reach me ?? Write to me @ rraj09102002@gmail.com
 
 
