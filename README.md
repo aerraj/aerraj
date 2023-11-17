@@ -1,7 +1,8 @@
 
 ### 👋 Hi, I go by Rishabh Raj
-### 👁️I don't know much just trying to figure out how things go around here
-### 🕸️I have terrible design skills but I can tell what is a good design
+### 👁️ I don't know much just trying to figure out how things go around here
+### 🕸️ Why am I here? God knows why.
+### 👁 Literally him
 
 ---
 
