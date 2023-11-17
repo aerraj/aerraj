@@ -2,7 +2,6 @@
 ### 👋 Hi, I go by Rishabh Raj
 ### 👁️ I don't know much just trying to figure out how things go around here
 ### 🕸️ Why am I here? God knows why.
-### 👁 Literally him
 
 ---
 
