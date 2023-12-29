@@ -16,7 +16,7 @@
 
 # My GitHub Unwrapped for 2023 🤩
 
-![GitHub Contributions](https://github.com/aerraj/aerraj/assets/61013804/05143bd9-4229-4623-a34e-d919b1737532)
+https://github.com/aerraj/aerraj/assets/61013804/05143bd9-4229-4623-a34e-d919b1737532
 
 ---
 
