@@ -10,11 +10,10 @@
     <a href="https://www.linkedin.com/in/rishabh-raj-1235771a2/">
         <img src="https://img.shields.io/badge/Rishabh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <img src="https://komarev.com/ghpvc/?username=aerraj&color=brightgreen&style=for-the-badge">
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerraj&layout=compact&theme=midnight" />
-</div>
-</picture>
-  
+    </div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerraj&layout=compact&theme=midnight" />
+
 
 [![An image of @aerraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aerraj)](https://holopin.io/@aerraj)
 
