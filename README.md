@@ -19,10 +19,5 @@
 https://github.com/aerraj/aerraj/assets/61013804/05143bd9-4229-4623-a34e-d919b1737532
 
 ---
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aerraj&theme=dark&theme=vue-dark" alt="github-stats">    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aerraj&show_icons=true&locale=en&layout=compact" alt="rishabh" />
-</p>
-
-
+![](./profile-3d-contrib/profile-night-green.svg)
 
