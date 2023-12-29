@@ -1,4 +1,6 @@
 
+
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, I'm Rishabh. </span> </h1>
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student+Developer+and+Engineer;" height="40"/>
 <div>
@@ -12,6 +14,9 @@
 
 
 
+https://github.com/aerraj/aerraj/assets/61013804/05143bd9-4229-4623-a34e-d919b1737532
+
+[![An image of @aerraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aerraj)](https://holopin.io/@aerraj)
 
 <p> 
     <img src="https://media.githubusercontent.com/media/janleigh/wallpapers/master/Anime/dualchrome-crane.png">
