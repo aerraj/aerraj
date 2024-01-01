@@ -17,10 +17,5 @@
 
 [![An image of @aerraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aerraj)](https://holopin.io/@aerraj)
 
-# My GitHub Unwrapped for 2023 🤩
-
-https://github.com/aerraj/aerraj/assets/61013804/05143bd9-4229-4623-a34e-d919b1737532
-
----
 ![](./profile-3d-contrib/profile-night-green.svg)
 
