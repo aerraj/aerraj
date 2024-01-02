@@ -14,7 +14,7 @@
   <div style="display: flex;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerraj&layout=compact&theme=midnight" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerraj&" alt="aerraj" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aerraj&" alt="aerraj" />
   </div>
 
 
