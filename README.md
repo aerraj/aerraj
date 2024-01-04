@@ -12,7 +12,6 @@
     <img src="https://komarev.com/ghpvc/?username=aerraj&color=brightgreen&style=for-the-badge">
     </div>
   <div style="display: flex;">
-  rt
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerraj&layout=compact&theme=midnight" />
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aerraj&" alt="aerraj" />
