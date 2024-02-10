@@ -20,5 +20,5 @@
 
 [![An image of @aerraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aerraj)](https://holopin.io/@aerraj)
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
