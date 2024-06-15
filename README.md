@@ -19,8 +19,5 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aerraj&" alt="aerraj" />
   </div>
 
-
-[![An image of @aerraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aerraj)](https://holopin.io/@aerraj)
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
