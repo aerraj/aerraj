@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student+Developer+and+Engineer;" height="40"/>
 
-### Here we cook
+## Language and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,java,html,css,python,react,redux,npm,nodejs,nextjs,bootstrap,tailwind,materialui,express,mongodb,mysql,postgres,anaconda,bash,linux,mint,ubuntu,tensorflow,flask,vercel,vscode,eclipse,prisma,firebase,git,github,opencv,sklearn,maven,spring,matlab,md,webpack,sublime,vim,powershell,postman)](https://skillicons.dev)
 
 <div>
     <a href="mailto:rraj09102002@gmail.com">
