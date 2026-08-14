@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rishabh Raj, a senior at NITD. My interests span electronics and computer science.
+I am Rishabh Raj, a graduate from NITD. My interests span  AI, electronics and computer science.
 
 ![](https://komarev.com/ghpvc/?username=aerraj)
 
