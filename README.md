@@ -20,4 +20,6 @@ I am Rishabh Raj, a graduate from NITD. My interests span  AI, electronics and c
 
 [](./profile-3d-contrib/profile-gitblock.svg)
 
+<img src="./profile-3d-contrib/profile-night-green.svg">
+
 
